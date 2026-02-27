@@ -1,0 +1,82 @@
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\ufont to ttf.exe
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\ufont to ttf.deps.json
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\ufont to ttf.runtimeconfig.json
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\ufont to ttf.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\ufont to ttf.pdb
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.AssemblyInfoInputs.cache
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.AssemblyInfo.cs
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.csproj.CoreCompileInputs.cache
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\refint\ufont to ttf.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.pdb
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.genruntimeconfig.cache
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ref\ufont to ttf.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to ttf.csproj.AssemblyReference.cache
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\Blake3.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\CommunityToolkit.HighPerformance.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\CUE4Parse-Natives.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\CUE4Parse.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\UE4Config.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\SevenZip.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\OffiUtils.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\Oodle.NET.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\Serilog.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\Zlib-ng.NET.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\linux-arm\native\libblake3_dotnet.so
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\linux-arm64\native\libblake3_dotnet.so
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\linux-x64\native\libblake3_dotnet.so
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\osx-arm64\native\libblake3_dotnet.dylib
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\osx-x64\native\libblake3_dotnet.dylib
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\win-arm64\native\blake3_dotnet.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\win-x64\native\blake3_dotnet.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\bin\Debug\net9.0\runtimes\win-x86\native\blake3_dotnet.dll
+C:\Users\mr200\source\repos\ufont to ttf\ufont to ttf\obj\Debug\net9.0\ufont to.237A3FC8.Up2Date
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\ufont to ttf.exe
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\ufont to ttf.deps.json
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\ufont to ttf.runtimeconfig.json
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\ufont to ttf.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\ufont to ttf.pdb
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\Blake3.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\CommunityToolkit.HighPerformance.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\CUE4Parse-Natives.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\CUE4Parse.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\UE4Config.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\K4os.Compression.LZ4.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\K4os.Compression.LZ4.Streams.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\K4os.Hash.xxHash.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\SevenZip.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\OffiUtils.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\Oodle.NET.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\Serilog.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\Zlib-ng.NET.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\ZstdSharp.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\linux-arm\native\libblake3_dotnet.so
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\linux-arm64\native\libblake3_dotnet.so
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\linux-x64\native\libblake3_dotnet.so
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\osx-arm64\native\libblake3_dotnet.dylib
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\osx-x64\native\libblake3_dotnet.dylib
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\win-arm64\native\blake3_dotnet.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\win-x64\native\blake3_dotnet.dll
+C:\ufont-to-ttf-Converter\bin\Debug\net9.0\runtimes\win-x86\native\blake3_dotnet.dll
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.csproj.AssemblyReference.cache
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.GeneratedMSBuildEditorConfig.editorconfig
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.AssemblyInfoInputs.cache
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.AssemblyInfo.cs
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.csproj.CoreCompileInputs.cache
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to.237A3FC8.Up2Date
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.dll
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\refint\ufont to ttf.dll
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.pdb
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ufont to ttf.genruntimeconfig.cache
+C:\ufont-to-ttf-Converter\obj\Debug\net9.0\ref\ufont to ttf.dll

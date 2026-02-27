@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ufont to ttf", "ufont to ttf.csproj", "{231BC3FC-0749-676C-32C2-0DA3BAB21D17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231BC3FC-0749-676C-32C2-0DA3BAB21D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231BC3FC-0749-676C-32C2-0DA3BAB21D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231BC3FC-0749-676C-32C2-0DA3BAB21D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231BC3FC-0749-676C-32C2-0DA3BAB21D17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCF1D474-B9C5-4A05-A061-4B2A6C7FF3C9}
+	EndGlobalSection
+EndGlobal
